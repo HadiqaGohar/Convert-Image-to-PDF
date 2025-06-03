@@ -1,4 +1,4 @@
 
-streamlit==1.23.0
-fpdf==1.7.2
-Pillow==9.5.0
+streamlit
+fpdf
+Pillow
